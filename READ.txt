@@ -4,3 +4,5 @@ Junior
 Computer Science Engineering
 Canton, MI
 CMSE 201
+
+Nick Lenaghan, lenagha1@msu.edu
